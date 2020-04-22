@@ -2,13 +2,14 @@
 
 # Creating a website on Github without using Git
 
-1. Create a new repo
-2. Create a file docs/index.html holding
+You can create a static website using Github. This post shows how to do it without using or even installing Git.
+
+1. Log into Github and create a new repo. 
+2. Within your repo, create a file docs/index.html (it will create a new directory once you hit the `/` key). Paste this line at the top of the editor.
     
     ```
     <!DOCTYPE html><script src="https://cdn.jsdelivr.net/npm/mdme@0.3.0"></script><textarea>
     ```
     
-    followed by any markdown you want to render.
-3. Go into settings and select the docs/ directory for Github pages.
-4. Open your website. It'll render the markdown.
+    Then add any content you want to render in markdown format. The top line loads a Javascript markdown rendering engine. It'll convert any markdown that follows to html when someone loads the page.
+3. Click the Settings tab. Scroll down to the "Github Pages" section. Select "master branch docs/ folder". You'll see a notification "Your site is published at" followed by the address. Click the link to open your website.
