@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Some Nice Jekyll Themes
+---
+
 # Some nice Jekyll themes
 
 - Hydeout
