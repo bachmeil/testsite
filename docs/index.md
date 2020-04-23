@@ -1,9 +1,7 @@
 ---
-title: This is my title
+title: Index Page
 layout: post
 ---
-
-# Index Page
 
 This is a Github Pages blog.
 
