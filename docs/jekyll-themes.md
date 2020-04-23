@@ -1,8 +1,7 @@
 ---
 layout: page
+title: "Some nice Jekyll themes"
 ---
-
-# Some nice Jekyll themes
 
 - Hydeout
 - Tail (this theme)
