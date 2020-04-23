@@ -1,6 +1,6 @@
 ---
 title: Index Page
-layout: post
+layout: page
 ---
 
 This is a Github Pages blog.
