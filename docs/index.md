@@ -7,4 +7,4 @@ layout: default
 
 This is a Github Pages blog.
 
-- [Google data centers and climate change](google-data-climate.html)
+- [Google data centers and climate change](google-data-climate.md)
