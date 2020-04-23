@@ -1,6 +1,6 @@
 ---
 title: This is my title
-layout: default
+layout: post
 ---
 
 # Index Page
