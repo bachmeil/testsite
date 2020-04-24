@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Some nice Jekyll themes"
+sidebar_link: true
 ---
 
 - Hydeout
