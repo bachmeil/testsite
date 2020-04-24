@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 Does this $$y_{t}$$ work?
