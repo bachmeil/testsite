@@ -1,3 +1,4 @@
 title:          My Blog
 description:    "Technology and Productivity"
 remote_theme:   bachmeil/hydeout
+markdown: kramdown
